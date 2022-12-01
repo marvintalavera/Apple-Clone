@@ -1,0 +1,96 @@
+h3 {
+    text-align: center;
+    color: black;
+    font-family:sans-serif;
+    font-size: 48px;
+    padding: 0;
+    margin: 0;
+    margin-top: 1em;
+    margin-bottom: .1em;
+}
+h4 {
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 25px;
+    font-weight: lighter;
+    padding: 0;
+    margin: 0;
+}
+h5 {
+    color: cornflowerblue;
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: 200;
+    padding: 0;
+    margin: 0;
+    margin-top: 1em;
+    margin-bottom: 2em;
+}
+nav {
+    margin: auto;
+    text-align: center;
+}
+ul {
+    list-style: none;
+    background-color: rgb(61, 61, 61);
+    padding: auto;
+    margin: auto;
+    height: 3em;
+    font-family: sans-serif;
+}
+li {
+    display: inline-block;
+    margin: 1em;
+}
+.firstPic {
+    width: 900px;
+    margin-bottom: 1em;
+}
+a:link { 
+    text-decoration: none;
+}
+.item {
+    color: rgb(180, 180, 180);
+    margin: auto;
+    padding: .8em;
+}
+.numTwo {
+    background-color: black;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+}
+.twoTwo {
+    color: rgb(255, 255, 255);
+    font-family:sans-serif;
+    text-align: center;
+    font-size: 42px;
+    padding: 0;
+    margin: 0;
+    margin-top: 1em;
+    margin-bottom: .1em;
+}
+.twoThree{
+    color: white;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 25px;
+    font-weight: lighter;
+    padding: 0;
+    margin: 0;
+}
+#top {
+    color:white;
+}
+.cta {
+    color: cornflowerblue;
+}
+#firstPic {
+    display: flex;
+    justify-content: center;
+}
+body {
+    margin: auto;
+    white-space: nowrap;
+}
